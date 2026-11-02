@@ -1,16 +1,19 @@
-## Hi there 👋
+# Alpha Boubacar Diallo
 
-<!--
-**Isaias62/Isaias62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇫🇷 Bienvenue sur mon GitHub ! Vous y trouverez mes projets en développement web, en applications Java et en infonuagique.
 
-Here are some ideas to get you started:
+🇬🇧 Welcome to my GitHub! Here you'll find my projects in web development, Java applications and cloud computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Canada
+
+## Projets / Projects
+
+| Projet / Project | Description | Technologies |
+|---|---|---|
+| [Gradely](https://github.com/Isaias62/GRADELYprojet-) | Suivi de projets universitaires avec résumés par IA (projet d'équipe, UQO) / University project tracker with AI summaries (team project, UQO) | Django, React, SQLite, OpenAI |
+| [Employee Directory on AWS](https://github.com/Isaias62/Deploying-an-Employee-Directory-Application-on-AWS) | Application multi-niveaux avec équilibrage de charge / Multi-tier app with load balancing | AWS, PHP, MySQL |
+| [Système de transport](https://github.com/Isaias62/SystemeDeTransport) | Horaires de bus et recherche de trajets à Gatineau / Gatineau bus schedules and trip planner | Java, Swing, OpenStreetMap |
+
+## Technologies
+
+Java · Python · Django · React · PHP · MySQL · HTML/CSS · AWS
